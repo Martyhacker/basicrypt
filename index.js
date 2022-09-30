@@ -1,4 +1,4 @@
-const {reverse, straight, even, caesar} = require('./vocabulary/straight');
+const {reverse, straight, even, caesar} = require('./vocabulary/vocabulary');
 const string = 'I AM ENCRYPTING THIS TEXT';
 var caesar_result = [],
     straight_result = [],
